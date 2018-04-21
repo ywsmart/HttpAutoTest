@@ -1,0 +1,10 @@
+2018-04-21 16:56:27  [ INFO ]  [ method:com.dull.CDSpace.view.FileManagerView.initTreeItems(?:?) ]  Init tree file is.\project\MRAutoSpace\01 chapter2
+2018-04-21 16:56:29  [ DEBUG ]  [ method:com.dull.CDSpace.model.NodeItem.toString(?:?) ]  set tree name .\project\MRAutoSpace
+2018-04-21 16:56:29  [ DEBUG ]  [ method:com.dull.CDSpace.model.NodeItem.toString(?:?) ]  set tree name .\project\MRAutoSpace
+2018-04-21 16:56:31  [ DEBUG ]  [ method:com.dull.CDSpace.model.NodeItem.toString(?:?) ]  set tree name .\project\MRAutoSpace\01 chapter2
+2018-04-21 16:56:31  [ DEBUG ]  [ method:com.dull.CDSpace.model.NodeItem.toString(?:?) ]  set tree name .\project\MRAutoSpace
+2018-04-21 16:56:31  [ DEBUG ]  [ method:com.dull.CDSpace.model.NodeItem.toString(?:?) ]  set tree name .\project\MRAutoSpace\01 chapter2
+2018-04-21 16:56:32  [ DEBUG ]  [ method:com.dull.CDSpace.model.NodeItem.toString(?:?) ]  set tree name .\project\MRAutoSpace
+2018-04-21 16:56:32  [ DEBUG ]  [ method:com.dull.CDSpace.model.NodeItem.toString(?:?) ]  set tree name .\project\MRAutoSpace\01 chapter2
+2018-04-21 16:56:35  [ DEBUG ]  [ method:com.dull.CDSpace.view.BorderCenterView.setContent(?:?) ]  selected treeItem file path is .\project\MRAutoSpace\01 chapter2\00 httpServer.server
+2018-04-21 16:56:36  [ INFO ]  [ method:com.dull.CDSpace.view.BorderCenterView.loadTab(?:?) ]  tab's size is1

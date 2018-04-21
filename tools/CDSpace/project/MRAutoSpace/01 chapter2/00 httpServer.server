@@ -1,0 +1,1 @@
+{"port":"19090","serverType":"HTTP","protocolType":"SSL","contexts":[{"contextName":"getClassName","url":"getClassName","responseCode":"200","responseBody":"{\"id\": \"\", \"className\": \"testClassName\"}","headers":{}}]}

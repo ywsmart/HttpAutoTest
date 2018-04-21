@@ -1,0 +1,1 @@
+{"method":"POST","url":"http://localhost:8080/Imooc/student/v1/studentInfo","body":"{\n\t\"id\": 1,\n\t\"name\": \"imooc\",\n\t\"sex\": 1,\n\t\"age\": 30\n}","headers":{}}
